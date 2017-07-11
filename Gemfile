@@ -56,4 +56,4 @@ gem 'spree', '~> 3.2.0'
 gem 'spree_auth_devise', '~> 3.2'
 gem 'spree_gateway', '~> 3.2'
 
-gem 'spree_volume_pricing’, github: 'spree-contrib/spree_volume_pricing'
+gem 'spree_volume_pricing', github: 'spree-contrib/spree_volume_pricing'
