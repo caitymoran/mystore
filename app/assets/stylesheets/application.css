@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+ #spree-header {
+    background-color: #E01B4F;
+  }
